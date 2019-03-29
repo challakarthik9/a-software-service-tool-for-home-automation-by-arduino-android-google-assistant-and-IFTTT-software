@@ -1,2 +1,5 @@
 # a-software-service-tool-for-home-automation-by-arduino-android-google-assistant-and-IFTTT-software
 Our main aim of the course project is to prepare a software service tool for home appliances using the required hardware and software components.
+Home automation is a building automation for a home, called a smart home or smart house. A home automation system will control lighting, climate, entertainment systems, and appliances. It may also include home security such as access control and alarm systems. When connected with the Internet, home devices are an important constituent of the Internet of Things.
+A home automation system typically connects controlled devices to a central hub or "gateway". The user interface for control of the system uses either wall-mounted terminals, tablet or desktop computers, a mobile phone application, or a Web interface, that may also be accessible off-site through the Internet.
+While there are many competing vendors, there are very few worldwide accepted industry standards and the smart home space is heavily fragmented manufacturers often prevent independent implementations by withholding documentation and by litigation.
